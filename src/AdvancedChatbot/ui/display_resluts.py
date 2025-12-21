@@ -1,6 +1,9 @@
 import streamlit as st
 from langchain_core.messages import HumanMessage,AIMessage,ToolMessage
-
+import uuid
+ 
+if "thread_id" not in st.session_state:
+    st.session_state.thread_id = str(uuid.uuid4())
 
 class DisplayResults:
     def __init__(self,usecase,graph,input_message):
@@ -9,7 +12,10 @@ class DisplayResults:
         self.input_message = input_message
 
     def display_results_on_chatbot(self):
-        config={"configurable":{"thread_id":"4"}}
+        if "thread_id" not in st.session_state:
+            st.session_state.thread_id = str(uuid.uuid4())
+            
+        config = {"configurable": {"thread_id": st.session_state.thread_id}}
 
         if "messages" not in st.session_state:
             st.session_state["messages"] = []
