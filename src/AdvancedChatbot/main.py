@@ -18,7 +18,6 @@ def Advanced_agentic_app():
         return     # Stop until user logs i
     
     user_inputs=app_ui.loadui()
-
     # Validate user_inputs
     if not user_inputs:
         st.error("Error: Failed to load user input from the UI.")
