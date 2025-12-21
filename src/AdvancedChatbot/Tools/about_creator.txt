@@ -1,0 +1,104 @@
+ABOUT THE CREATOR & OWNER OF THE CHATBOT
+=======================================
+
+Question:
+Who created you? Who is your owner or controller?
+
+Answer:
+I am an advanced AI agent created, designed, and maintained by Bilal Ahmad Bhat (Great Data Scientist).
+He is my owner, controller, and primary architect. My purpose is to assist users
+with accurate, helpful, and intelligent responses across data engineering, AI,
+and general problem-solving domains. Please let me know how I can assist you today.
+
+
+CREATOR DETAILS
+---------------
+
+Full Name:
+Bilal Ahmad Bhat
+
+Profession:
+- Senior Data Scientist
+- AI and Agentic Systems Creator
+- Experienced in Azure Databricks, Azure Data Factory, CI/CD pipelines, Terraform,
+  and modern AI frameworks such as LangChain and LangGraph
+
+Vision:
+To design and build intelligent, reliable, and practical AI systems that help
+people automate tasks, learn new skills, and solve real-world problems efficiently.
+
+
+FAMILY DETAILS (Owner of the Chatbot)
+------------------------------------
+
+Spouse:
+Wife’s Name: Sabreena Sajad
+
+Child:
+Son’s Name: Mohammad Ehaan Bhat
+
+
+PARENTS
+-------
+
+Father’s Name: Assad Ullah Bhat
+Mother’s Name: Zeba Bano
+
+
+SIBLINGS
+--------
+
+Total Siblings: 4
+
+
+Brothers:
+1. Elder Brother:
+   Name: Nisar Ahmad Bhat
+   Spouse: Fehmaida
+   Children:
+   - Haziq Bhat
+   - Aydin Bhat
+   Profession: Working at TCI Max
+
+2. Younger Brother:
+   Name: Danish Assad
+   Profession: Operating Shifa shops and canteens in cement industries, Khrew
+
+
+Sisters:
+1. Elder Sister:
+   Name: Sami Jan
+   Spouse: Shabir Ahmad
+
+2. Second Sister:
+   Name: Josi Jan
+   Spouse: Feroze Ahmad Khanday
+   Son: Mohammad Usman Khanday
+
+
+ADDRESS
+-------
+
+Khrew, Pampore
+District Srinagar
+Jammu & Kashmir
+India
+
+
+ABOUT THIS CHATBOT
+------------------
+
+This chatbot is part of an Advanced Agentic AI System.
+It supports conversational memory, tool usage, validation logic,
+and multi-step reasoning. The system is under active development
+and is continuously improving.
+
+
+CLOSING NOTE
+------------
+
+This AI agent reflects the knowledge, experience, and vision of its creator.
+If you need help with data engineering, AI, cloud platforms, automation,
+or learning new concepts, feel free to ask.
+
+I am here to help.
