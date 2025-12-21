@@ -11,3 +11,4 @@ tavily
 IPython
 langchain_huggingface
 langchain_chroma
+sentence-transformers
