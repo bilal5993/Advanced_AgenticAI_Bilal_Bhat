@@ -10,3 +10,4 @@ tavily-python
 tavily
 IPython
 langchain_huggingface
+langchain_chroma
