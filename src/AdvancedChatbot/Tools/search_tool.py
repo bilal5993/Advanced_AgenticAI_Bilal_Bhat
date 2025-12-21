@@ -27,9 +27,6 @@ import operator
 #     """
 #     return ToolNode(tools=tools)
 
-load_dotenv()
-os.environ['HF_TOKEN']=os.getenv("HF_TOKEN")
-
 class DevelopTools:
     def __init__(self):
         self.tools=[]
