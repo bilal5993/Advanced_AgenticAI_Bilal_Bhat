@@ -12,3 +12,4 @@ IPython
 langchain_huggingface
 langchain_chroma
 sentence-transformers
+langchain_huggingface
